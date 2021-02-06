@@ -29,3 +29,13 @@ From the results - LDA model using normal cleaning has better keywords and relev
 **Dataset snapshot keywords after 3 cleaning methods and 3 **
 
 ![pic3](https://github.com/ARGULASAISURAJ/Topic-Modeling-of-BBC-News-Articles/blob/main/pic3.PNG)
+
+Thanks,
+
+**Sai Suraj Argula**
+
+Phone no - +1 8135396715
+
+LinkedIn - https://www.linkedin.com/in/suraj-argula/
+
+Website - https://argulasaisuraj.github.io/Suraj_Website/
